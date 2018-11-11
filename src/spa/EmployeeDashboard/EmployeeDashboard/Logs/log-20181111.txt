@@ -1,0 +1,402 @@
+2018-11-11T05:03:27.5371784+01:00  [INF] Starting @angular/cli on port 4203... (b52308c9)
+2018-11-11T05:03:27.9399399+01:00 0HLI7HAH9I29F:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:2833/  0 (ca22a1cb)
+2018-11-11T05:03:27.9399399+01:00 0HLI7HAH9I29G:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/   (ca22a1cb)
+2018-11-11T05:03:27.9677734+01:00 0HLI7HAH9I29F:00000001 [INF] Request finished in 28.6315ms 200  (791a596a)
+2018-11-11T05:03:27.9924758+01:00 0HLI7HAH9I29G:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:31.7891668+01:00  [INF] > ngx-admin@2.3.0 start C:\learn\medium\employee-dashboard\Step-1\src\spa\EmployeeDashboard\EmployeeDashboard\ClientApp
+> ng serve "--port" "4203"
+
+** Angular Live Development Server is listening on localhost: 4203, open your browser on http://localhost:4203/ **
+ (378bd31a)
+2018-11-11T05:03:38.1988250+01:00  [INF] i ∩╜ówdm∩╜ú: wait until bundle finished: /
+ (5b9bec14)
+2018-11-11T05:03:46.4940193+01:00  [INF] Date: 2018-11-11T04:03:46.388Z
+Hash: ddca6ac7b392dae8826b
+Time: 14484ms
+chunk {app-pages-pages-module} app-pages-pages-module.js, app-pages-pages-module.js.map (app-pages-pages-module) 27.5 kB  [rendered]
+chunk {main} main.js, main.js.map (main) 520 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 489 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 8.01 kB [entry] [rendered]
+chunk {scripts} scripts.js, scripts.js.map (scripts) 12.6 kB  [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 980 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 5.26 MB [initial] [rendered]
+i ∩╜ówdm∩╜ú: Compiled successfully.
+ (a8c61879)
+2018-11-11T05:03:46.5259033+01:00 0HLI7HAH9I29G:00000001 [INF] Request finished in 18588.1528ms 200 text/html; charset=UTF-8 (791a596a)
+2018-11-11T05:03:46.5556241+01:00 0HLI7HAH9I29G:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/vendor.js   (ca22a1cb)
+2018-11-11T05:03:46.5558731+01:00 0HLI7HAH9I29F:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/scripts.js   (ca22a1cb)
+2018-11-11T05:03:46.5557741+01:00 0HLI7HAH9I29H:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/polyfills.js   (ca22a1cb)
+2018-11-11T05:03:46.5577053+01:00 0HLI7HAH9I29G:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:46.5574465+01:00 0HLI7HAH9I29I:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/runtime.js   (ca22a1cb)
+2018-11-11T05:03:46.5658114+01:00 0HLI7HAH9I29H:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:46.5658094+01:00 0HLI7HAH9I29F:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:46.5658942+01:00 0HLI7HAH9I29I:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:46.5751740+01:00 0HLI7HAH9I29J:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/styles.js   (ca22a1cb)
+2018-11-11T05:03:46.5752976+01:00 0HLI7HAH9I29J:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:46.5763243+01:00 0HLI7HAH9I29K:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/main.js   (ca22a1cb)
+2018-11-11T05:03:46.5764434+01:00 0HLI7HAH9I29K:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:46.7471132+01:00 0HLI7HAH9I29J:00000001 [INF] Request finished in 172.1021ms 304  (791a596a)
+2018-11-11T05:03:48.3929221+01:00 0HLI7HAH9I29H:00000001 [INF] Request finished in 1837.5637ms 304  (791a596a)
+2018-11-11T05:03:48.4311868+01:00 0HLI7HAH9I29I:00000001 [INF] Request finished in 1874.443ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:03:48.4519435+01:00 0HLI7HAH9I29K:00000001 [INF] Request finished in 1875.8415ms 304  (791a596a)
+2018-11-11T05:03:48.4521323+01:00 0HLI7HAH9I29F:00000002 [INF] Request finished in 1896.5722ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:03:48.5462227+01:00 0HLI7HAH9I29G:00000002 [INF] Request finished in 1990.8991ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:03:49.9618376+01:00 0HLI7HAH9I29J:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/app-pages-pages-module.js   (ca22a1cb)
+2018-11-11T05:03:49.9619309+01:00 0HLI7HAH9I29J:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:49.9820086+01:00 0HLI7HAH9I29H:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/info?t=1541909029972   (ca22a1cb)
+2018-11-11T05:03:49.9822294+01:00 0HLI7HAH9I29H:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.0173047+01:00 0HLI7HAH9I29J:00000002 [INF] Request finished in 55.4524ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.0338068+01:00 0HLI7HAH9I29H:00000002 [INF] Request finished in 51.8066ms 200 application/json; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.1848751+01:00 0HLI7HAH9I29K:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/nebular.ttf?nboapd   (ca22a1cb)
+2018-11-11T05:03:50.1848751+01:00 0HLI7HAH9I29I:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/Roboto-Regular.woff2   (ca22a1cb)
+2018-11-11T05:03:50.1850031+01:00 0HLI7HAH9I29K:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.1849945+01:00 0HLI7HAH9I29I:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.1852457+01:00 0HLI7HAH9I29F:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-400.woff2   (ca22a1cb)
+2018-11-11T05:03:50.1854748+01:00 0HLI7HAH9I29F:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.2031620+01:00 0HLI7HAH9I29H:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/ionicons.ttf?v=2.0.1   (ca22a1cb)
+2018-11-11T05:03:50.2122942+01:00 0HLI7HAH9I29H:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.2122982+01:00 0HLI7HAH9I29J:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-600.woff2   (ca22a1cb)
+2018-11-11T05:03:50.2124324+01:00 0HLI7HAH9I29J:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.2765430+01:00 0HLI7HAH9I29G:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-500.woff2   (ca22a1cb)
+2018-11-11T05:03:50.2841795+01:00 0HLI7HAH9I29G:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.2945199+01:00 0HLI7HAH9I29L:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-700.woff2   (ca22a1cb)
+2018-11-11T05:03:50.2961600+01:00 0HLI7HAH9I29L:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.3351029+01:00 0HLI7HAH9I29J:00000003 [INF] Request finished in 122.8078ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.3991321+01:00 0HLI7HAH9I29I:00000002 [INF] Request finished in 214.2729ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.5386257+01:00 0HLI7HAH9I29F:00000003 [INF] Request finished in 353.195ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.5524329+01:00 0HLI7HAH9I29K:00000002 [INF] Request finished in 366.7857ms 200 font/ttf; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.5536255+01:00 0HLI7HAH9I29H:00000003 [INF] Request finished in 350.2451ms 200 font/ttf; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.5548964+01:00 0HLI7HAH9I29L:00000001 [INF] Request finished in 260.4479ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.5548897+01:00 0HLI7HAH9I29M:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/Roboto-Bold.woff2   (ca22a1cb)
+2018-11-11T05:03:50.5553128+01:00 0HLI7HAH9I29G:00000003 [INF] Request finished in 278.5426ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.5553987+01:00 0HLI7HAH9I29M:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.5581235+01:00 0HLI7HAH9I29N:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/assets/images/nick.png   (ca22a1cb)
+2018-11-11T05:03:50.5582827+01:00 0HLI7HAH9I29N:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.6018595+01:00 0HLI7HAH9I29O:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/742/3l1itooo/websocket   (ca22a1cb)
+2018-11-11T05:03:50.6026908+01:00 0HLI7HAH9I29O:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:03:50.6248524+01:00 0HLI7HAH9I29N:00000001 [INF] Request finished in 67.9617ms 200 image/png; charset=UTF-8 (791a596a)
+2018-11-11T05:03:50.6250391+01:00 0HLI7HAH9I29M:00000001 [INF] Request finished in 70.5011ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:04:00.7880403+01:00 0HLI7HAH9I29J:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/swagger   (ca22a1cb)
+2018-11-11T05:04:00.7881791+01:00 0HLI7HAH9I29J:00000004 [INF] Request finished in 0.1695ms 302  (791a596a)
+2018-11-11T05:04:00.7929935+01:00 0HLI7HAH9I29F:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/swagger/index.html?url=/swagger/v1/swagger.json   (ca22a1cb)
+2018-11-11T05:04:00.8564040+01:00 0HLI7HAH9I29F:00000004 [INF] Request finished in 63.4245ms 200 text/html; charset=utf-8 (791a596a)
+2018-11-11T05:04:00.8640882+01:00 0HLI7HAH9I29K:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/swagger/swagger-ui.css   (ca22a1cb)
+2018-11-11T05:04:00.8640833+01:00 0HLI7HAH9I29G:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/swagger/swagger-ui-standalone-preset.js   (ca22a1cb)
+2018-11-11T05:04:00.8640833+01:00 0HLI7HAH9I29I:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/swagger/swagger-ui-bundle.js   (ca22a1cb)
+2018-11-11T05:04:00.8784329+01:00 0HLI7HAH9I29G:00000004 [INF] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' (27b0a520)
+2018-11-11T05:04:00.8785544+01:00 0HLI7HAH9I29G:00000004 [INF] Request finished in 14.4804ms 200 application/javascript (791a596a)
+2018-11-11T05:04:00.8784431+01:00 0HLI7HAH9I29K:00000003 [INF] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' (27b0a520)
+2018-11-11T05:04:00.8788100+01:00 0HLI7HAH9I29K:00000003 [INF] Request finished in 14.6332ms 200 text/css (791a596a)
+2018-11-11T05:04:00.8825332+01:00 0HLI7HAH9I29I:00000003 [INF] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' (27b0a520)
+2018-11-11T05:04:00.8826305+01:00 0HLI7HAH9I29I:00000003 [INF] Request finished in 18.5611ms 200 application/javascript (791a596a)
+2018-11-11T05:04:01.1830662+01:00 0HLI7HAH9I29H:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/swagger/v1/swagger.json   (ca22a1cb)
+2018-11-11T05:04:01.7482381+01:00 0HLI7HAH9I29H:00000004 [INF] Request finished in 565.1775ms 200 application/json; charset=utf-8 (791a596a)
+2018-11-11T05:04:13.9582806+01:00 0HLI7HAH9I29L:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/api/SampleData/WeatherForecasts   (ca22a1cb)
+2018-11-11T05:04:13.9583937+01:00 0HLI7HAH9I29L:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:04:13.9811538+01:00 0HLI7HAH9I29L:00000002 [INF] Route matched with "{action = \"WeatherForecasts\", controller = \"SampleData\", page = \"\"}". Executing action "EmployeeDashboard.Controllers.SampleDataController.WeatherForecasts (EmployeeDashboard)" (a44c0341)
+2018-11-11T05:04:14.0238560+01:00 0HLI7HAH9I29L:00000002 [INF] Executing action method "EmployeeDashboard.Controllers.SampleDataController.WeatherForecasts (EmployeeDashboard)" - Validation state: Valid (dad538d7)
+2018-11-11T05:04:14.0273931+01:00 0HLI7HAH9I29L:00000002 [INF] Executed action method "EmployeeDashboard.Controllers.SampleDataController.WeatherForecasts (EmployeeDashboard)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 1.7316ms. (50a9e262)
+2018-11-11T05:04:14.0342959+01:00 0HLI7HAH9I29L:00000002 [INF] Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectIPartitionIterator`2[[System.Int32, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[EmployeeDashboard.Controllers.SampleDataController+WeatherForecast, EmployeeDashboard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (8a1b66c8)
+2018-11-11T05:04:14.0416767+01:00 0HLI7HAH9I29L:00000002 [INF] Executed action "EmployeeDashboard.Controllers.SampleDataController.WeatherForecasts (EmployeeDashboard)" in 58.6418ms (afa2e885)
+2018-11-11T05:04:14.0418147+01:00 0HLI7HAH9I29L:00000002 [INF] Request finished in 83.5574ms 200 application/json; charset=utf-8 (791a596a)
+2018-11-11T05:04:41.9620532+01:00  [INF] Starting @angular/cli on port 4338... (58417e72)
+2018-11-11T05:04:42.2945650+01:00 0HLI7HB7F08KM:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/info?t=1541909081472   (ca22a1cb)
+2018-11-11T05:04:42.3168326+01:00 0HLI7HB7F08KM:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:04:46.0454730+01:00  [INF] > ngx-admin@2.3.0 start C:\learn\medium\employee-dashboard\Step-1\src\spa\EmployeeDashboard\EmployeeDashboard\ClientApp
+> ng serve "--port" "4338"
+
+** Angular Live Development Server is listening on localhost: 4338, open your browser on http://localhost:4338/ **
+ (c16055be)
+2018-11-11T05:04:51.6156343+01:00 0HLI7HB7F08KN:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/info?t=1541909091608   (ca22a1cb)
+2018-11-11T05:04:51.6158248+01:00 0HLI7HB7F08KN:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:04:52.4448642+01:00 0HLI7HB7F08KM:00000001 [INF] Request finished in 10151.4832ms 200 application/json; charset=UTF-8 (791a596a)
+2018-11-11T05:04:52.6685294+01:00 0HLI7HB7F08KN:00000001 [INF] Request finished in 1052.8645ms 200 application/json; charset=UTF-8 (791a596a)
+2018-11-11T05:04:52.6732477+01:00 0HLI7HB7F08KN:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/320/cwr5bem5/websocket   (ca22a1cb)
+2018-11-11T05:04:52.6734024+01:00 0HLI7HB7F08KN:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:04:55.3600640+01:00 0HLI7HB7F08KN:00000002 [INF] Request finished in 2686.755ms 101  (791a596a)
+2018-11-11T05:05:00.9148818+01:00  [INF] Date: 2018-11-11T04:05:00.808Z
+Hash: ddca6ac7b392dae8826b
+Time: 14653ms
+chunk {app-pages-pages-module} app-pages-pages-module.js, app-pages-pages-module.js.map (app-pages-pages-module) 27.5 kB  [rendered]
+chunk {main} main.js, main.js.map (main) 520 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 489 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 8.01 kB [entry] [rendered]
+chunk {scripts} scripts.js, scripts.js.map (scripts) 12.6 kB  [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 980 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 5.26 MB [initial] [rendered]
+i ∩╜ówdm∩╜ú: Compiled successfully.
+ (fb47f840)
+2018-11-11T05:12:34.3043053+01:00  [INF] Starting @angular/cli on port 4408... (6bafcc9d)
+2018-11-11T05:12:34.5805590+01:00 0HLI7HFK6ORHU:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:2833/  0 (ca22a1cb)
+2018-11-11T05:12:34.5805591+01:00 0HLI7HFK6ORHT:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/   (ca22a1cb)
+2018-11-11T05:12:34.6075939+01:00 0HLI7HFK6ORHU:00000001 [INF] Request finished in 27.4622ms 200  (791a596a)
+2018-11-11T05:12:34.6266766+01:00 0HLI7HFK6ORHT:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:12:44.2259925+01:00  [INF] > ngx-admin@2.3.0 start C:\learn\medium\employee-dashboard\src\spa\EmployeeDashboard\EmployeeDashboard\ClientApp
+> ng serve "--port" "4408"
+
+** Angular Live Development Server is listening on localhost: 4408, open your browser on http://localhost:4408/ **
+ (9c20463c)
+2018-11-11T05:12:51.1612895+01:00  [INF] i ∩╜ówdm∩╜ú: wait until bundle finished: /
+ (5b9bec14)
+2018-11-11T05:12:59.4996856+01:00  [INF] Date: 2018-11-11T04:12:59.265Z
+Hash: ddca6ac7b392dae8826b
+Time: 14887ms
+chunk {app-pages-pages-module} app-pages-pages-module.js, app-pages-pages-module.js.map (app-pages-pages-module) 27.5 kB  [rendered]
+chunk {main} main.js, main.js.map (main) 520 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 489 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 8.01 kB [entry] [rendered]
+chunk {scripts} scripts.js, scripts.js.map (scripts) 12.6 kB  [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 980 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 5.26 MB [initial] [rendered]
+i ∩╜ówdm∩╜ú: Compiled successfully.
+ (c06f91fd)
+2018-11-11T05:12:59.5348627+01:00 0HLI7HFK6ORI0:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/vendor.js   (ca22a1cb)
+2018-11-11T05:12:59.5485932+01:00 0HLI7HFK6ORHV:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/runtime.js   (ca22a1cb)
+2018-11-11T05:12:59.5485936+01:00 0HLI7HFK6ORHU:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/styles.js   (ca22a1cb)
+2018-11-11T05:12:59.5487735+01:00 0HLI7HFK6ORI0:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:12:59.5491234+01:00 0HLI7HFK6ORHU:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:12:59.5491245+01:00 0HLI7HFK6ORHV:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:12:59.5515356+01:00 0HLI7HFK6ORI1:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/main.js   (ca22a1cb)
+2018-11-11T05:12:59.5516213+01:00 0HLI7HFK6ORI1:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:12:59.5715285+01:00 0HLI7HFK6ORI2:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/scripts.js   (ca22a1cb)
+2018-11-11T05:12:59.5716404+01:00 0HLI7HFK6ORI2:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:12:59.5728029+01:00 0HLI7HFK6ORHT:00000001 [INF] Request finished in 24994.1689ms 200 text/html; charset=UTF-8 (791a596a)
+2018-11-11T05:12:59.5740095+01:00 0HLI7HFK6ORHT:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/polyfills.js   (ca22a1cb)
+2018-11-11T05:12:59.6767184+01:00 0HLI7HFK6ORHT:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:12:59.8321589+01:00 0HLI7HFK6ORHU:00000002 [INF] Request finished in 283.8506ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:13:01.4451070+01:00 0HLI7HFK6ORHV:00000001 [INF] Request finished in 1896.8184ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:13:01.4919349+01:00 0HLI7HFK6ORI2:00000001 [INF] Request finished in 1920.3992ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:13:01.5088827+01:00 0HLI7HFK6ORI1:00000001 [INF] Request finished in 1958.0571ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:13:01.5093870+01:00 0HLI7HFK6ORHT:00000002 [INF] Request finished in 1936.1417ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:13:01.5642090+01:00 0HLI7HFK6ORI0:00000001 [INF] Request finished in 2030.3591ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:13:02.8910390+01:00 0HLI7HFK6ORHU:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/app-pages-pages-module.js   (ca22a1cb)
+2018-11-11T05:13:02.8911476+01:00 0HLI7HFK6ORHU:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:02.9095931+01:00 0HLI7HFK6ORHV:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/info?t=1541909582889   (ca22a1cb)
+2018-11-11T05:13:02.9101293+01:00 0HLI7HFK6ORHV:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:02.9393944+01:00 0HLI7HFK6ORHU:00000003 [INF] Request finished in 48.3033ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:13:02.9640634+01:00 0HLI7HFK6ORHV:00000002 [INF] Request finished in 54.722ms 200 application/json; charset=UTF-8 (791a596a)
+2018-11-11T05:13:03.1052348+01:00 0HLI7HFK6ORI2:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/nebular.ttf?nboapd   (ca22a1cb)
+2018-11-11T05:13:03.1053794+01:00 0HLI7HFK6ORI2:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.1067893+01:00 0HLI7HFK6ORHT:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/Roboto-Regular.woff2   (ca22a1cb)
+2018-11-11T05:13:03.1068461+01:00 0HLI7HFK6ORI1:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-400.woff2   (ca22a1cb)
+2018-11-11T05:13:03.1068745+01:00 0HLI7HFK6ORI0:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-500.woff2   (ca22a1cb)
+2018-11-11T05:13:03.1069208+01:00 0HLI7HFK6ORHT:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.1069311+01:00 0HLI7HFK6ORI1:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.1069818+01:00 0HLI7HFK6ORI0:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.1241026+01:00 0HLI7HFK6ORHU:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-600.woff2   (ca22a1cb)
+2018-11-11T05:13:03.1246876+01:00 0HLI7HFK6ORHV:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-700.woff2   (ca22a1cb)
+2018-11-11T05:13:03.1248150+01:00 0HLI7HFK6ORHU:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.1428709+01:00 0HLI7HFK6ORHV:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.2760713+01:00 0HLI7HFK6ORI3:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/ionicons.ttf?v=2.0.1   (ca22a1cb)
+2018-11-11T05:13:03.2761949+01:00 0HLI7HFK6ORI3:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.3201507+01:00 0HLI7HFK6ORHU:00000004 [INF] Request finished in 196.199ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:13:03.3211075+01:00 0HLI7HFK6ORI0:00000002 [INF] Request finished in 214.2226ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:13:03.3401942+01:00 0HLI7HFK6ORHV:00000003 [INF] Request finished in 215.3479ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:13:03.3402107+01:00 0HLI7HFK6ORHT:00000003 [INF] Request finished in 233.2839ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:13:03.3414629+01:00 0HLI7HFK6ORI4:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/Roboto-Bold.woff2   (ca22a1cb)
+2018-11-11T05:13:03.3415670+01:00 0HLI7HFK6ORI4:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.3640420+01:00 0HLI7HFK6ORI2:00000002 [INF] Request finished in 258.828ms 200 font/ttf; charset=UTF-8 (791a596a)
+2018-11-11T05:13:03.3903334+01:00 0HLI7HFK6ORI1:00000002 [INF] Request finished in 282.6078ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:13:03.4328497+01:00 0HLI7HFK6ORI5:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/assets/images/nick.png   (ca22a1cb)
+2018-11-11T05:13:03.4328648+01:00 0HLI7HFK6ORI4:00000001 [INF] Request finished in 91.2279ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:13:03.4332858+01:00 0HLI7HFK6ORI5:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.4350926+01:00 0HLI7HFK6ORI3:00000001 [INF] Request finished in 159.0626ms 200 font/ttf; charset=UTF-8 (791a596a)
+2018-11-11T05:13:03.4525443+01:00 0HLI7HFK6ORI6:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/679/s3pbdyse/websocket   (ca22a1cb)
+2018-11-11T05:13:03.4533848+01:00 0HLI7HFK6ORI6:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:13:03.4675430+01:00 0HLI7HFK6ORI5:00000001 [INF] Request finished in 34.8433ms 200 image/png; charset=UTF-8 (791a596a)
+2018-11-11T05:13:10.0837117+01:00 0HLI7HFK6ORI6:00000001 [INF] Request finished in 6631.3929ms 101  (791a596a)
+2018-11-11T05:17:00.7418226+01:00  [INF] Starting @angular/cli on port 4516... (25fb990e)
+2018-11-11T05:17:00.9398025+01:00 0HLI7HI3IS90S:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/   (ca22a1cb)
+2018-11-11T05:17:00.9398025+01:00 0HLI7HI3IS90T:00000001 [INF] Request starting HTTP/1.1 DEBUG http://localhost:2833/  0 (ca22a1cb)
+2018-11-11T05:17:00.9641020+01:00 0HLI7HI3IS90T:00000001 [INF] Request finished in 24.6688ms 200  (791a596a)
+2018-11-11T05:17:00.9833654+01:00 0HLI7HI3IS90S:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:04.9121304+01:00  [INF] > ngx-admin@2.3.0 start C:\learn\medium\employee-dashboard\src\spa\EmployeeDashboard\EmployeeDashboard\ClientApp
+> ng serve "--port" "4516"
+
+** Angular Live Development Server is listening on localhost: 4516, open your browser on http://localhost:4516/ **
+ (8f4ec68d)
+2018-11-11T05:17:11.4176469+01:00  [INF] i ∩╜ówdm∩╜ú: wait until bundle finished: /
+ (5b9bec14)
+2018-11-11T05:17:20.2277714+01:00  [INF] Date: 2018-11-11T04:17:20.110Z
+Hash: 56d8d87d2242ca596d84
+Time: 15065ms
+chunk {app-pages-pages-module} app-pages-pages-module.js, app-pages-pages-module.js.map (app-pages-pages-module) 27.5 kB  [rendered]
+chunk {main} main.js, main.js.map (main) 520 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 489 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 8.01 kB [entry] [rendered]
+chunk {scripts} scripts.js, scripts.js.map (scripts) 12.6 kB  [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 980 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 5.26 MB [initial] [rendered]
+i ∩╜ówdm∩╜ú: Compiled successfully.
+ (ac5f38e6)
+2018-11-11T05:17:20.2612923+01:00 0HLI7HI3IS90T:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/polyfills.js   (ca22a1cb)
+2018-11-11T05:17:20.2612923+01:00 0HLI7HI3IS90V:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/main.js   (ca22a1cb)
+2018-11-11T05:17:20.2617931+01:00 0HLI7HI3IS90U:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/vendor.js   (ca22a1cb)
+2018-11-11T05:17:20.2624974+01:00 0HLI7HI3IS90U:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:20.2624980+01:00 0HLI7HI3IS90T:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:20.2624896+01:00 0HLI7HI3IS90V:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:20.2908321+01:00 0HLI7HI3IS910:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/styles.js   (ca22a1cb)
+2018-11-11T05:17:20.2910659+01:00 0HLI7HI3IS910:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:20.2919488+01:00 0HLI7HI3IS911:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/scripts.js   (ca22a1cb)
+2018-11-11T05:17:20.2922616+01:00 0HLI7HI3IS90S:00000001 [INF] Request finished in 19354.3179ms 200 text/html; charset=UTF-8 (791a596a)
+2018-11-11T05:17:20.2923249+01:00 0HLI7HI3IS911:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:20.2926131+01:00 0HLI7HI3IS90S:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/runtime.js   (ca22a1cb)
+2018-11-11T05:17:20.2927051+01:00 0HLI7HI3IS90S:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:20.5557853+01:00 0HLI7HI3IS910:00000001 [INF] Request finished in 264.9775ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:17:22.0449970+01:00 0HLI7HI3IS90S:00000002 [INF] Request finished in 1752.3367ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:17:22.0505331+01:00 0HLI7HI3IS90T:00000002 [INF] Request finished in 1789.0973ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:17:22.4851213+01:00 0HLI7HI3IS911:00000001 [INF] Request finished in 2193.176ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:17:22.4907088+01:00 0HLI7HI3IS90V:00000001 [INF] Request finished in 2229.433ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:17:22.5900796+01:00 0HLI7HI3IS90U:00000001 [INF] Request finished in 2328.6117ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:17:23.9571080+01:00 0HLI7HI3IS910:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/app-pages-pages-module.js   (ca22a1cb)
+2018-11-11T05:17:23.9572352+01:00 0HLI7HI3IS910:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:23.9782385+01:00 0HLI7HI3IS90S:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/info?t=1541909843966   (ca22a1cb)
+2018-11-11T05:17:23.9783532+01:00 0HLI7HI3IS90S:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.0174573+01:00 0HLI7HI3IS910:00000002 [INF] Request finished in 60.1823ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:17:24.0382428+01:00 0HLI7HI3IS90S:00000003 [INF] Request finished in 60.0047ms 200 application/json; charset=UTF-8 (791a596a)
+2018-11-11T05:17:24.2116685+01:00 0HLI7HI3IS90T:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/nebular.ttf?nboapd   (ca22a1cb)
+2018-11-11T05:17:24.2117973+01:00 0HLI7HI3IS90T:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.2122443+01:00 0HLI7HI3IS911:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/Roboto-Regular.woff2   (ca22a1cb)
+2018-11-11T05:17:24.2131789+01:00 0HLI7HI3IS90V:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-400.woff2   (ca22a1cb)
+2018-11-11T05:17:24.2131789+01:00 0HLI7HI3IS90U:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-500.woff2   (ca22a1cb)
+2018-11-11T05:17:24.2132737+01:00 0HLI7HI3IS90V:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.2132769+01:00 0HLI7HI3IS90U:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.2132934+01:00 0HLI7HI3IS911:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.2508147+01:00 0HLI7HI3IS910:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-600.woff2   (ca22a1cb)
+2018-11-11T05:17:24.2509978+01:00 0HLI7HI3IS90S:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/ionicons.ttf?v=2.0.1   (ca22a1cb)
+2018-11-11T05:17:24.2510723+01:00 0HLI7HI3IS90S:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.2703683+01:00 0HLI7HI3IS910:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.3162987+01:00 0HLI7HI3IS912:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-700.woff2   (ca22a1cb)
+2018-11-11T05:17:24.3164175+01:00 0HLI7HI3IS912:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.3487377+01:00 0HLI7HI3IS913:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/Roboto-Bold.woff2   (ca22a1cb)
+2018-11-11T05:17:24.3506845+01:00 0HLI7HI3IS913:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.4877334+01:00 0HLI7HI3IS90T:00000003 [INF] Request finished in 276.0791ms 200 font/ttf; charset=UTF-8 (791a596a)
+2018-11-11T05:17:24.4877336+01:00 0HLI7HI3IS90V:00000002 [INF] Request finished in 274.542ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:17:24.5155082+01:00 0HLI7HI3IS911:00000002 [INF] Request finished in 303.2627ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:17:24.5730537+01:00 0HLI7HI3IS90U:00000002 [INF] Request finished in 359.2234ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:17:24.5736051+01:00 0HLI7HI3IS914:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/assets/images/nick.png   (ca22a1cb)
+2018-11-11T05:17:24.5738917+01:00 0HLI7HI3IS914:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.5740253+01:00 0HLI7HI3IS90S:00000004 [INF] Request finished in 322.9816ms 200 font/ttf; charset=UTF-8 (791a596a)
+2018-11-11T05:17:24.6030412+01:00 0HLI7HI3IS910:00000003 [INF] Request finished in 351.7563ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:17:24.6083874+01:00 0HLI7HI3IS913:00000001 [INF] Request finished in 266.266ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:17:24.6238576+01:00 0HLI7HI3IS915:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/822/zyk5fzxx/websocket   (ca22a1cb)
+2018-11-11T05:17:24.6240177+01:00 0HLI7HI3IS915:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:24.6258947+01:00 0HLI7HI3IS914:00000001 [INF] Request finished in 53.0463ms 200 image/png; charset=UTF-8 (791a596a)
+2018-11-11T05:17:25.4051094+01:00 0HLI7HI3IS912:00000001 [INF] Request finished in 1088.9497ms 200 font/woff2; charset=UTF-8 (791a596a)
+2018-11-11T05:17:47.9554753+01:00  [INF] i ∩╜ówdm∩╜ú: Compiling...
+ (f6e4d4cc)
+2018-11-11T05:17:48.8877194+01:00  [INF] Date: 2018-11-11T04:17:48.841Z - Hash: 89818085832f061e0809 - Time: 685ms
+6 unchanged chunks
+chunk {main} main.js, main.js.map (main) 520 kB [initial] [rendered]
+i ∩╜ówdm∩╜ú: Compiled successfully.
+ (8692dd38)
+2018-11-11T05:17:48.9194884+01:00 0HLI7HI3IS90V:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/   (ca22a1cb)
+2018-11-11T05:17:48.9195812+01:00 0HLI7HI3IS90V:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:49.0803804+01:00 0HLI7HI3IS915:00000001 [INF] Request finished in 24456.6586ms 101  (791a596a)
+2018-11-11T05:17:49.9793174+01:00 0HLI7HI3IS90V:00000003 [INF] Request finished in 1059.8258ms 304  (791a596a)
+2018-11-11T05:17:49.9878382+01:00 0HLI7HI3IS90T:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/runtime.js   (ca22a1cb)
+2018-11-11T05:17:49.9878509+01:00 0HLI7HI3IS90U:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/polyfills.js   (ca22a1cb)
+2018-11-11T05:17:49.9879796+01:00 0HLI7HI3IS90U:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:49.9879800+01:00 0HLI7HI3IS90T:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:49.9884172+01:00 0HLI7HI3IS911:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/styles.js   (ca22a1cb)
+2018-11-11T05:17:49.9885102+01:00 0HLI7HI3IS911:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:49.9885336+01:00 0HLI7HI3IS90S:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44383/scripts.js   (ca22a1cb)
+2018-11-11T05:17:49.9898927+01:00 0HLI7HI3IS90S:00000005 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:49.9884452+01:00 0HLI7HI3IS910:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/vendor.js   (ca22a1cb)
+2018-11-11T05:17:49.9914044+01:00 0HLI7HI3IS910:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:50.0499075+01:00 0HLI7HI3IS913:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/main.js   (ca22a1cb)
+2018-11-11T05:17:50.0500253+01:00 0HLI7HI3IS913:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:50.1564390+01:00 0HLI7HI3IS90U:00000003 [INF] Request finished in 167.8091ms 304  (791a596a)
+2018-11-11T05:17:51.1614572+01:00 0HLI7HI3IS911:00000003 [INF] Request finished in 1173.0402ms 304  (791a596a)
+2018-11-11T05:17:51.1898443+01:00 0HLI7HI3IS90S:00000005 [INF] Request finished in 1201.3213ms 304  (791a596a)
+2018-11-11T05:17:51.2262656+01:00 0HLI7HI3IS90T:00000004 [INF] Request finished in 1227.2603ms 304  (791a596a)
+2018-11-11T05:17:51.2736382+01:00 0HLI7HI3IS910:00000004 [INF] Request finished in 1285.086ms 304  (791a596a)
+2018-11-11T05:17:51.2912659+01:00 0HLI7HI3IS913:00000002 [INF] Request finished in 1241.359ms 200 application/javascript; charset=UTF-8 (791a596a)
+2018-11-11T05:17:52.7538587+01:00 0HLI7HI3IS914:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/app-pages-pages-module.js   (ca22a1cb)
+2018-11-11T05:17:52.7539568+01:00 0HLI7HI3IS914:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:52.7721038+01:00 0HLI7HI3IS912:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/info?t=1541909872765   (ca22a1cb)
+2018-11-11T05:17:52.7722211+01:00 0HLI7HI3IS912:00000002 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:52.8075014+01:00 0HLI7HI3IS914:00000002 [INF] Request finished in 53.6426ms 304  (791a596a)
+2018-11-11T05:17:52.8226478+01:00 0HLI7HI3IS912:00000002 [INF] Request finished in 50.5453ms 200 application/json; charset=UTF-8 (791a596a)
+2018-11-11T05:17:52.9917385+01:00 0HLI7HI3IS90V:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/assets/images/manju.png   (ca22a1cb)
+2018-11-11T05:17:52.9918446+01:00 0HLI7HI3IS90V:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:53.0158668+01:00 0HLI7HI3IS90U:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/310/mtjapzvf/websocket   (ca22a1cb)
+2018-11-11T05:17:53.0160331+01:00 0HLI7HI3IS90U:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:17:53.0390062+01:00 0HLI7HI3IS90V:00000004 [INF] Request finished in 47.2887ms 200 image/png; charset=UTF-8 (791a596a)
+2018-11-11T05:18:05.9317392+01:00 0HLI7HI3IS911:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/   (ca22a1cb)
+2018-11-11T05:18:05.9318423+01:00 0HLI7HI3IS911:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:06.9948088+01:00 0HLI7HI3IS911:00000004 [INF] Request finished in 1063.0704ms 304  (791a596a)
+2018-11-11T05:18:07.0029106+01:00 0HLI7HI3IS90S:00000006 [INF] Request starting HTTP/1.1 GET http://localhost:44383/polyfills.js   (ca22a1cb)
+2018-11-11T05:18:07.0030709+01:00 0HLI7HI3IS90S:00000006 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:07.0034055+01:00 0HLI7HI3IS90T:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44383/runtime.js   (ca22a1cb)
+2018-11-11T05:18:07.0033861+01:00 0HLI7HI3IS910:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44383/styles.js   (ca22a1cb)
+2018-11-11T05:18:07.0042766+01:00 0HLI7HI3IS910:00000005 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:07.0042811+01:00 0HLI7HI3IS90T:00000005 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:07.0043270+01:00 0HLI7HI3IS914:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/main.js   (ca22a1cb)
+2018-11-11T05:18:07.0043311+01:00 0HLI7HI3IS912:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/vendor.js   (ca22a1cb)
+2018-11-11T05:18:07.0043373+01:00 0HLI7HI3IS913:00000003 [INF] Request starting HTTP/1.1 GET http://localhost:44383/scripts.js   (ca22a1cb)
+2018-11-11T05:18:07.0044065+01:00 0HLI7HI3IS912:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:07.0044090+01:00 0HLI7HI3IS914:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:07.0044121+01:00 0HLI7HI3IS913:00000003 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:07.1234517+01:00 0HLI7HI3IS90S:00000006 [INF] Request finished in 120.4408ms 304  (791a596a)
+2018-11-11T05:18:07.1359718+01:00 0HLI7HI3IS910:00000005 [INF] Request finished in 132.5855ms 304  (791a596a)
+2018-11-11T05:18:08.0822973+01:00 0HLI7HI3IS913:00000003 [INF] Request finished in 1077.954ms 304  (791a596a)
+2018-11-11T05:18:08.1226560+01:00 0HLI7HI3IS90T:00000005 [INF] Request finished in 1119.2697ms 304  (791a596a)
+2018-11-11T05:18:08.1517148+01:00 0HLI7HI3IS912:00000003 [INF] Request finished in 1147.3715ms 304  (791a596a)
+2018-11-11T05:18:08.1518575+01:00 0HLI7HI3IS914:00000003 [INF] Request finished in 1147.5407ms 304  (791a596a)
+2018-11-11T05:18:09.4367698+01:00 0HLI7HI3IS90V:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44383/app-pages-pages-module.js   (ca22a1cb)
+2018-11-11T05:18:09.4368619+01:00 0HLI7HI3IS90V:00000005 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.4543161+01:00 0HLI7HI3IS911:00000005 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/info?t=1541909889448   (ca22a1cb)
+2018-11-11T05:18:09.4544439+01:00 0HLI7HI3IS911:00000005 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.5069507+01:00 0HLI7HI3IS90V:00000005 [INF] Request finished in 69.9893ms 304  (791a596a)
+2018-11-11T05:18:09.5072424+01:00 0HLI7HI3IS911:00000005 [INF] Request finished in 52.9407ms 200 application/json; charset=UTF-8 (791a596a)
+2018-11-11T05:18:09.6677194+01:00 0HLI7HI3IS90S:00000007 [INF] Request starting HTTP/1.1 GET http://localhost:44383/nebular.ttf?nboapd   (ca22a1cb)
+2018-11-11T05:18:09.6678660+01:00 0HLI7HI3IS90S:00000007 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.6691231+01:00 0HLI7HI3IS913:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/Roboto-Regular.woff2   (ca22a1cb)
+2018-11-11T05:18:09.6691312+01:00 0HLI7HI3IS90T:00000006 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-500.woff2   (ca22a1cb)
+2018-11-11T05:18:09.6691229+01:00 0HLI7HI3IS910:00000006 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-400.woff2   (ca22a1cb)
+2018-11-11T05:18:09.6692335+01:00 0HLI7HI3IS90T:00000006 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.6692357+01:00 0HLI7HI3IS910:00000006 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.6692334+01:00 0HLI7HI3IS913:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.6868948+01:00 0HLI7HI3IS912:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-600.woff2   (ca22a1cb)
+2018-11-11T05:18:09.6878114+01:00 0HLI7HI3IS914:00000004 [INF] Request starting HTTP/1.1 GET http://localhost:44383/exo-latin-700.woff2   (ca22a1cb)
+2018-11-11T05:18:09.6878311+01:00 0HLI7HI3IS912:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.6879384+01:00 0HLI7HI3IS914:00000004 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.7088705+01:00 0HLI7HI3IS911:00000006 [INF] Request starting HTTP/1.1 GET http://localhost:44383/Roboto-Bold.woff2   (ca22a1cb)
+2018-11-11T05:18:09.7088704+01:00 0HLI7HI3IS90V:00000006 [INF] Request starting HTTP/1.1 GET http://localhost:44383/ionicons.ttf?v=2.0.1   (ca22a1cb)
+2018-11-11T05:18:09.7089948+01:00 0HLI7HI3IS90V:00000006 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.7089949+01:00 0HLI7HI3IS911:00000006 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.8500159+01:00 0HLI7HI3IS916:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/assets/images/manju.png   (ca22a1cb)
+2018-11-11T05:18:09.8501494+01:00 0HLI7HI3IS916:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:09.8937078+01:00 0HLI7HI3IS913:00000004 [INF] Request finished in 216.6414ms 304  (791a596a)
+2018-11-11T05:18:09.9458903+01:00 0HLI7HI3IS90T:00000006 [INF] Request finished in 275.5987ms 304  (791a596a)
+2018-11-11T05:18:09.9708191+01:00 0HLI7HI3IS910:00000006 [INF] Request finished in 301.4845ms 304  (791a596a)
+2018-11-11T05:18:09.9834089+01:00 0HLI7HI3IS912:00000004 [INF] Request finished in 313.0222ms 304  (791a596a)
+2018-11-11T05:18:09.9942996+01:00 0HLI7HI3IS914:00000004 [INF] Request finished in 306.059ms 304  (791a596a)
+2018-11-11T05:18:09.9958153+01:00 0HLI7HI3IS916:00000001 [INF] Request finished in 145.6493ms 304  (791a596a)
+2018-11-11T05:18:09.9958188+01:00 0HLI7HI3IS90S:00000007 [INF] Request finished in 327.8281ms 304  (791a596a)
+2018-11-11T05:18:09.9959674+01:00 0HLI7HI3IS917:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/292/ig3zwfgt/websocket   (ca22a1cb)
+2018-11-11T05:18:09.9960494+01:00 0HLI7HI3IS911:00000006 [INF] Request finished in 287.2123ms 304  (791a596a)
+2018-11-11T05:18:09.9960764+01:00 0HLI7HI3IS917:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:10.8243939+01:00 0HLI7HI3IS90V:00000006 [INF] Request finished in 1115.5402ms 304  (791a596a)
+2018-11-11T05:18:36.4060962+01:00  [INF] Starting @angular/cli on port 4659... (f9d48afa)
+2018-11-11T05:18:36.7371129+01:00 0HLI7HJ04URRU:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44383/sockjs-node/info?t=1541909915924   (ca22a1cb)
+2018-11-11T05:18:36.7608436+01:00 0HLI7HJ04URRU:00000001 [INF] 4010 (ff1efcf9)
+2018-11-11T05:18:40.5710790+01:00  [INF] > ngx-admin@2.3.0 start C:\learn\medium\employee-dashboard\src\spa\EmployeeDashboard\EmployeeDashboard\ClientApp
+> ng serve "--port" "4659"
+
+** Angular Live Development Server is listening on localhost: 4659, open your browser on http://localhost:4659/ **
+ (fa269473)
+2018-11-11T05:18:46.7562785+01:00 0HLI7HJ04URRU:00000001 [INF] Request finished in 10020.4019ms 200 application/json; charset=UTF-8 (791a596a)
+2018-11-11T05:18:54.7434107+01:00  [INF] Date: 2018-11-11T04:18:54.639Z
+Hash: 89818085832f061e0809
+Time: 13961ms
+chunk {app-pages-pages-module} app-pages-pages-module.js, app-pages-pages-module.js.map (app-pages-pages-module) 27.5 kB  [rendered]
+chunk {main} main.js, main.js.map (main) 520 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 489 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 8.01 kB [entry] [rendered]
+chunk {scripts} scripts.js, scripts.js.map (scripts) 12.6 kB  [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 980 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 5.26 MB [initial] [rendered]
+i ∩╜ówdm∩╜ú: Compiled successfully.
+ (874ff6e9)
